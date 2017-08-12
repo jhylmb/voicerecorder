@@ -62,10 +62,10 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>B8CD754C1F158C4E95A96AB7BB4F238887FC083A</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>2EFBCB723F16CD4B1BB16C6487BF681DC7C9012B</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>VoiceRecorder_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>VoiceRecorder_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -200,6 +200,7 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <None Include="VoiceRecorder_1_TemporaryKey.pfx" />
     <None Include="VoiceRecorder_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
