@@ -1,0 +1,26 @@
+.vs/
+VoiceRecorder.Audio/bin/
+VoiceRecorder.Audio/obj/
+VoiceRecorder.Core/bin/
+VoiceRecorder.Core/obj/
+VoiceRecorder.Tests/obj/
+VoiceRecorder/VoiceRecorder_1_TemporaryKey.pfx
+VoiceRecorder/obj/
+bin/
+packages/MvvmLight.3.0.0.29166/MvvmLight.3.0.0.29166.nupkg
+packages/NAudio.1.7-beta01/NAudio.1.7-beta01.nupkg
+~VB Port/VoiceRecorder.Audio/bin/
+~VB Port/VoiceRecorder.Audio/obj/
+~VB Port/VoiceRecorder.Core/bin/
+~VB Port/VoiceRecorder.Core/obj/
+~VB Port/VoiceRecorder.Tests/obj/
+~VB Port/VoiceRecorder/VoiceRecorder_1_TemporaryKey.pfx
+~VB Port/VoiceRecorder/obj/
+~VB Port/bin/
+~VB Port/packages/MvvmLight.3.0.0.29166/MvvmLight.3.0.0.29166.nupkg
+~VB Port/packages/MvvmLight.3.0.0.29166/Snippets/
+~VB Port/packages/MvvmLight.3.0.0.29166/Templates/
+~VB Port/packages/MvvmLight.3.0.0.29166/lib/SL3/
+~VB Port/packages/MvvmLight.3.0.0.29166/lib/SL4/
+~VB Port/packages/MvvmLight.3.0.0.29166/lib/WP7/
+~VB Port/packages/NUnit.2.5.7.10213/NUnit.2.5.7.10213.nupkg
